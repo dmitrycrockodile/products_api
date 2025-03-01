@@ -1,0 +1,2 @@
+# products_api
+ This is a RESTful API designed to manage and interact with products in an e-commerce system. It allows users to view, create, update, delete, and manage products, as well as place orders for those products. This API is built with Laravel and provides robust features for managing product-related data. The application enforces strict authorization, ensuring that users can only interact with their own orders and reviews, and includes error handling for database and other operational issues.
